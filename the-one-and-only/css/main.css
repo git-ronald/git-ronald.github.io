@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+.just-this {
+    font-size: 15em;
+    text-align: center;
+    margin-top: 0.5em;
+    color: white;
+    font-family: Verdana;
+}
+
+.smaller {
+    font-size: 75%;
+    display: inline;
+    position: relative;
+    top: -0.2em;
+}
